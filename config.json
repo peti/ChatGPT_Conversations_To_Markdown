@@ -1,10 +1,10 @@
 {
-  "user_name": "Chris",
+  "user_name": "Peter",
   "assistant_name": "ChatGPT",
-  "input_path": "C:\\Users\\dauga\\Downloads\\ChatGPT_Export",
+  "input_path": "ChatGPT_Export",
   "input_mode": "directory",
-  "output_directory": "C:\\GitHubProjects\\ChatGPT_Conversations_To_Markdown\\MarkdownFiles",
-  "organization_mode": "hybrid",
+  "output_directory": "/home/simons/src/ChatGPT_Conversations_To_Markdown/MarkdownFiles",
+  "organization_mode": "flat",
   "starred_folder": "Starred",
   "archived_folder": "Archived",
   "regular_folder": "Regular",
@@ -16,5 +16,6 @@
   "file_name_format": "{title}",
   "include_date": true,
   "message_separator": "\n\n",
-  "skip_empty_messages": true
+  "skip_empty_messages": true,
+  "include_message_timestamps": true
 }
